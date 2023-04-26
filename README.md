@@ -1,5 +1,14 @@
-- https://google.com
-<!---
-bla-q/bla-q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+links of interest:
+
+https://google.com
+
+https://discord.com
+
+https://poki.com
+
+https://youtube.com
+
+https://rammerhead.browser.com
+
+https://webosu.online
+
