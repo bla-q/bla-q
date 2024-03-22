@@ -12,3 +12,4 @@ https://rammerhead.browser.com
 
 https://webosu.online
 
+https://github.com/login/device
